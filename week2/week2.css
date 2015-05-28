@@ -1,0 +1,10 @@
+@charset "utf-8";
+p {
+	font-size: large;
+	font-weight: bolder;
+	color: #150BEB;
+}
+body {
+	text-align: center;
+	background-color: #7BD783;
+}
