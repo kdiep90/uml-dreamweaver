@@ -1,0 +1,55 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Josie's Cupcakery</title>
+<!-- TemplateEndEditable -->
+<link href="../project/style.css" rel="stylesheet" type="text/css">
+<!--The following script tag downloads a font from the Adobe Edge Web Fonts server for use within the web page. We recommend that you do not modify it.--><script>var __adobewebfontsappname__="dreamweaver"</script><script src="http://use.edgefonts.net/aguafina-script:n4:default.js" type="text/javascript"></script>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<div id="container">
+  <div id="banner">
+  	<div id="company-name"><h1>Josie's Cupcakery</h1></div>
+    <div id="company-info">
+    	<p class="info-bit">836 Sinclaire Street, Vinton, MG 07481</p>
+        <p class="info-bit">800-000-0000</p>
+    </div>
+  </div>      <!-- End of Banner -->
+  <div id="navbar">
+  	<ul>
+    	<li><a href="../project/index.htm">Home</a></li>
+        <li><a href="../project/about.htm">About</a></li>
+        <li><a href="../project/cupcakes.htm">Cupcakes</a></li>
+        <li><a href="../project/other.htm">Other Treats</a></li>
+        <li><a href="../project/catering.htm">Catering</a></li>
+        <li><a href="../project/contact.htm">Contact Us</a></li>
+    </ul>
+  </div>      <!-- End of Navbar -->
+  <!-- TemplateBeginEditable name="editcontent" -->
+  <div id="content"></div>
+  <!-- TemplateEndEditable -->
+  <!-- End of Content -->
+  <div id="footer">
+  	<div class="footer-section">
+    	<p>
+            Address: 836 Sinclaire Street<br>
+            Vinton, MG 07481<br>
+            Phone: 800-000-0000<br>
+            Email: info@josiescupcakeryonline.com<br>
+    	</p>
+    </div>
+    <div class="footer-section">
+    	<p style="text-align:center;">Copyright 2015</p>
+    </div>
+    <div class="footer-section">
+    	<div id="social-media"><a href="#"><img src="../project/F_icon.jpeg" width="29" height="30" class="social-media-icon"></a><a href="#"><img src="../project/Twitter_icon.jpeg" width="31" height="30" class="social-media-icon"></a><a href="#"><img src="../project/instagram_icon.jpg" width="31" height="30" class="social-media-icon"></a></div>
+    </div>
+   </div>    <!-- End of Footer -->
+</div>   <!-- End of Container -->
+</body>
+</html>
